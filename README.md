@@ -1,5 +1,7 @@
 This project is licensed under the terms of the Apache license 2.0.
 
+This is a fork from https://github.com/ElmahCore/ElmahCore.  This was forked to give some configuration allowing the modification of the form elements before they are captured to prevent sensitive data to be inserted. 
+
 # Using ElmahCore
 ELMAH for Net.Standard and Net.Core 
 
