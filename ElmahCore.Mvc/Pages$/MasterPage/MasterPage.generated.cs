@@ -144,7 +144,7 @@ WriteLiteral("\" />\r\n        <style type=\"text/css\">\r\n          body {\r\n
 WriteLiteral(@"            <div id=""topnavbar"" class=""navbar navbar-fixed-top"">
                 <div class=""navbar-inner"">
                     <div class=""container"">
-                        <a class=""brand"" href=""https://github.com/ElmahCore/www"">ELMAHCore</a>
+                        <a class=""brand"" href=""/"">ElmahCore</a>
                         ");
 
 

@@ -41,7 +41,7 @@ WriteLiteral("\r\n");
             
             //#line default
             //#line hidden
-WriteLiteral("<span>\r\n    Based on <a href=\"https://elmah.github.io/\">Elmah</a>, Powered by <a href=\"https://github.com/ElmahCore/www\">");
+WriteLiteral("<span>\r\n    Based on <a href=\"https://elmah.github.io/\">Elmah</a> ");
 
 
             
@@ -51,7 +51,7 @@ WriteLiteral("<span>\r\n    Based on <a href=\"https://elmah.github.io/\">Elmah<
             
             //#line default
             //#line hidden
-WriteLiteral("</a>,\r\n    version ");
+WriteLiteral("\r\n    version ");
 
 
             

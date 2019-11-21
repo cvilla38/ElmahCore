@@ -132,7 +132,6 @@ WriteLiteral("\r\n");
             SpeedBar.RssFeed.Format(basePageName),
             SpeedBar.RssDigestFeed.Format(basePageName),
             SpeedBar.DownloadLog.Format(basePageName),
-            SpeedBar.Help,
             SpeedBar.About.Format(basePageName),
         },
     };

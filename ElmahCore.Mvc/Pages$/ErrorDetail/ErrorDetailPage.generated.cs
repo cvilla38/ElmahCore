@@ -101,7 +101,6 @@ WriteLiteral("        <p>Error not found in log.</p>\r\n");
         SpeedBarItems = new[] 
         {
             SpeedBar.Home.Format(basePageName),
-            SpeedBar.Help,
             SpeedBar.About.Format(basePageName),
         },
     };

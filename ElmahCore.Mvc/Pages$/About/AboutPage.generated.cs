@@ -74,7 +74,6 @@ WriteLiteral("\r\n");
         SpeedBarItems = new[]
         {
             SpeedBar.Home.Format(basePageName),
-            SpeedBar.Help,
             SpeedBar.About.Format(basePageName)
         },
     };

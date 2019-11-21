@@ -38,7 +38,6 @@ namespace ElmahCore.Mvc
         public static readonly ItemTemplate RssFeed = new ItemTemplate("RSS Feed", "RSS feed of recent errors", "{0}/rss");
         public static readonly ItemTemplate RssDigestFeed = new ItemTemplate("RSS Digest", "RSS feed of errors within recent days", "{0}/digestrss");
         public static readonly ItemTemplate DownloadLog = new ItemTemplate("Download Log", "Download the entire log as CSV", "{0}/download");
-        public static readonly FormattedItem Help = new FormattedItem("Help", "Documentation, discussions, issues and more", "https://github.com/ElmahCore/www");
         public static readonly ItemTemplate About = new ItemTemplate("About", "Information about this version and build", "{0}/about");
 
         public static HelperResult Render(params FormattedItem[] items)

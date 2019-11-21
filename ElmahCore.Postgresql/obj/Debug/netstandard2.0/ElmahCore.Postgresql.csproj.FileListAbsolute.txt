@@ -1,0 +1,12 @@
+Z:\danielmartin\repos\elmahCore\ElmahCore\ElmahCore.Postgresql\bin\Debug\netstandard2.0\ElmahCore.Postgresql.deps.json
+Z:\danielmartin\repos\elmahCore\ElmahCore\ElmahCore.Postgresql\bin\Debug\netstandard2.0\ElmahCore.Postgresql.dll
+Z:\danielmartin\repos\elmahCore\ElmahCore\ElmahCore.Postgresql\bin\Debug\netstandard2.0\ElmahCore.Postgresql.pdb
+Z:\danielmartin\repos\elmahCore\ElmahCore\ElmahCore.Postgresql\bin\Debug\netstandard2.0\ElmahCore.dll
+Z:\danielmartin\repos\elmahCore\ElmahCore\ElmahCore.Postgresql\bin\Debug\netstandard2.0\ElmahCore.pdb
+Z:\danielmartin\repos\elmahCore\ElmahCore\ElmahCore.Postgresql\obj\Debug\netstandard2.0\ElmahCore.Postgresql.csprojAssemblyReference.cache
+Z:\danielmartin\repos\elmahCore\ElmahCore\ElmahCore.Postgresql\obj\Debug\netstandard2.0\ElmahCore.Postgresql.csproj.CoreCompileInputs.cache
+Z:\danielmartin\repos\elmahCore\ElmahCore\ElmahCore.Postgresql\obj\Debug\netstandard2.0\ElmahCore.Postgresql.AssemblyInfoInputs.cache
+Z:\danielmartin\repos\elmahCore\ElmahCore\ElmahCore.Postgresql\obj\Debug\netstandard2.0\ElmahCore.Postgresql.AssemblyInfo.cs
+Z:\danielmartin\repos\elmahCore\ElmahCore\ElmahCore.Postgresql\obj\Debug\netstandard2.0\ElmahCore.Postgresql.csproj.CopyComplete
+Z:\danielmartin\repos\elmahCore\ElmahCore\ElmahCore.Postgresql\obj\Debug\netstandard2.0\ElmahCore.Postgresql.dll
+Z:\danielmartin\repos\elmahCore\ElmahCore\ElmahCore.Postgresql\obj\Debug\netstandard2.0\ElmahCore.Postgresql.pdb
